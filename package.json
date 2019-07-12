@@ -1,0 +1,16 @@
+{
+    "name": "telegram_bot_instagram_api_js",
+    "version": "1.0.0",
+    "description": "A bot that make u able to access instagram features",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Jacopo De Gattis",
+    "license": "ISC",
+    "dependencies": {
+        "instagram-private-api": "^1.19.0",
+        "string-format": "^2.0.0",
+        "telegraf": "^3.30.1"
+    }
+}
