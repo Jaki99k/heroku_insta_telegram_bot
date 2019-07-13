@@ -3,7 +3,7 @@ const Telegraf = require('telegraf');
 const Markup = require('telegraf/markup');
 const IgApiClient = require('instagram-private-api').IgApiClient;
 const ig = new IgApiClient();
-const bot = new Telegraf('632800680:AAGv3jX7eAxF69KUXUx2uMksfW7VUFBoVQE');
+const bot = new Telegraf('');
 
 ig.state.generateDevice('n00bway');
 var global_pk = '';
