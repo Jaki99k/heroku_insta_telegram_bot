@@ -11,6 +11,7 @@
     "dependencies": {
         "instagram-private-api": "^1.19.0",
         "string-format": "^2.0.0",
-        "telegraf": "^3.30.1"
+        "telegraf": "^3.30.1",
+        "telegraf-inline-menu": "^3.6.0"
     }
 }
